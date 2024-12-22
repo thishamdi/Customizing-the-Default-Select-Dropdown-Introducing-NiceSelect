@@ -2,11 +2,11 @@
 
 Creating a user-friendly and visually appealing dropdown is a common need in web development. While the default HTML `<select>` element is functional, it has limitations that can make customization and modern UI integration difficult. To solve this, we introduce **NiceSelect**, a fully customizable React component.
 
----
-
 ### 🖼 Screenshot
 
 ![NiceSelect Screenshot](https://res.cloudinary.com/djx2azrql/image/upload/v1734836233/github/image_22_mdmymc.png)
+
+---
 
 ### Why Not Use Default HTML Select?
 
