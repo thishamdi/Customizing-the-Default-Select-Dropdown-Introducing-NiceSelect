@@ -4,6 +4,10 @@ Creating a user-friendly and visually appealing dropdown is a common need in web
 
 ---
 
+### 🖼 Screenshot
+
+![NiceSelect Screenshot](https://res.cloudinary.com/djx2azrql/image/upload/v1734836233/github/image_22_mdmymc.png)
+
 ### Why Not Use Default HTML Select?
 
 The default `<select>` element in HTML comes with these challenges:
